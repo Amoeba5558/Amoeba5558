@@ -25,8 +25,10 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/KarthikShetty02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="l" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="l" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="s" height="30" width="40" /></a>
+  
+<a href="A 51" target="blank"><img align="center" src="Amoeba5558/Icons/1" alt="l" height="30" width="40" /></a>
 </p>
 
 
