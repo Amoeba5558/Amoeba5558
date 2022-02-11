@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Amoeba5558</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img src="Amoeba5558/Icons/Burnt Sky.jpg" alt="burnt sky">
+
 
 <!-- To display an Image : -->
 
