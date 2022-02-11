@@ -14,8 +14,8 @@ You can click the Preview link to take a look at your changes.
 <img src="Amoeba5558/Icons/Burnt Sky.jpg" alt="burnt sky">
 
 <!-- To display an Image : -->
-https://raw.githubusercontent.com/Amoeba5558/Amoeba5558/Icons/Icons/Burnt Sky.jpg
-![Burnt Sky](https://raw.githubusercontent.com/Amoeba5558/Amoeba5558/master/Icons/Burnt Sky.jpg)
+
+![Burnt Sky](https://www.bing.com/th?id=OUWL.Fortnite_648&w=648&h=120&c=1&rs=2&qlt=80&o=6&dpr=1.25&pid=SANGAM)
 <!--  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g&label=Profile%20views&color=0e75b6&style=flat" alt="g" /> </p>
 
