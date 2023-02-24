@@ -12,7 +12,11 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">A passionate frontend developer from India</h3>
 
 # KathikShetty27's Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikShetty27&layout=compact "KathikShetty27's Stats")](https://github.com/KarthikShetty27/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikShetty27&langs_count=12&layout=compact "KathikShetty27's Stats")](https://github.com/KarthikShetty27/github-readme-stats)
+
+-----
+# Amoeba5558 Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amoeba5558&langs_count=12&layout=compact "Amoeba5558 Stats")](https://github.com/Amoeba5558/github-readme-stats)
 
 
 <p align="center"> <img src="Icons/Octacat.jpg" alt="Octacat" width="32" height="32" /> </p>
