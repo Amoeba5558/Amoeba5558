@@ -18,6 +18,17 @@ You can click the Preview link to take a look at your changes.
 # Amoeba5558 Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amoeba5558&langs_count=12&layout=compact "Amoeba5558 Stats")](https://github.com/Amoeba5558/github-readme-stats)
 
+---
+Repository Readme Cards
+***
+
+<img src='https://gh-card.dev/repos/KarthikShetty27/SORT.png' alt='image' > 
+
+[![KarthikShetty27/SORT - GitHub](https://gh-card.dev/repos/KarthikShetty27/SORT.svg?fullname=)](https://github.com/KarthikShetty27/SORT)
+
+[![KarthikShetty27/SORT - GitHub](https://gh-card.dev/repos/KarthikShetty27/SORT.svg)](https://github.com/KarthikShetty27/SORT)
+
+---
 
 <p align="center"> <img src="Icons/Octacat.jpg" alt="Octacat" width="32" height="32" /> </p>
 
