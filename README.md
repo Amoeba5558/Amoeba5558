@@ -3,6 +3,26 @@
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on anything 
 - 📫 How to reach me ...
+***
+
+&copy; <span id="year"></span> Your Name
+
+<script>
+ function getCurrentYear() {
+    return new Date().getFullYear();
+}
+document.getElementById("year").innerHTML = getCurrentYear();
+</script>
+
+
+***
+
+&copy; <p id="year"></p> Your Name
+
+<script>
+  document.getElementById("year").innerHTML = new Date().getFullYear();
+</script>
+***
 
 <!---
 Amoeba5558/Amoeba5558 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
