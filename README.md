@@ -4,12 +4,8 @@
 - 💞️ I’m looking to collaborate on anything 
 - 📫 How to reach me ...
 ***
-&copy; <span id="year"></span> Your Name
 
-<script src="https://github.com/Amoeba5558/Amoeba5558/blob/main/ReadMe-File/JavaScript/year.js"></script>
-<script>
-  document.getElementById("year").innerHTML = getCurrentYear();
-</script>
+
 
 ***
 
